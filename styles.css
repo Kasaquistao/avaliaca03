@@ -1,0 +1,103 @@
+*{
+    padding: 5px;
+    margin: 0;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+body{
+    background-color: #1a1a2e;}
+
+    div{
+    display: flex;
+}
+
+a{
+    color: white;
+}
+
+h1{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.banner{
+    width: 100%;
+    justify-content: space-between;
+}
+
+.banneralt{
+    margin-top: 30px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+
+.banner01{
+    margin-right: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+.banner02{
+    margin-top: 15px;
+    width: 400px;
+    justify-content: space-between;
+}
+
+.banner03{
+    width: 200px;
+    margin-top: 10px;
+}
+
+.norma{
+    display: block;
+}
+
+.img02{
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    height: 300px;
+    width: 500px;
+}
+
+.divimg02{
+    margin-top: 40px;
+}
+
+.letra{
+    color: #ff7b54;
+}
+
+input{
+    height: 30px;
+    width: 600px;
+    border-radius: 50px;
+    background-color: #2e2e3a;  
+}
+
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: #ff7b54;
+}
+
+p{
+    width: 680px;
+    color: #a8a8a8;
+}
+
+.gambi{
+    margin-bottom: 10px;
+}
+
+.gambi02{
+    margin-top: 15px;
+}
+
+.vazio{
+    margin-top: 30px;
+}
